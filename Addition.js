@@ -26,4 +26,4 @@ catch(e){
   console.log(e);
 }
 }
-addition("//;\n1;2");
+addition("//;\n1;-2");
